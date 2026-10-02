@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.8.0/RemoteTroubleshooter-1.8.0-win64.zip",
-  "changelog": "IA com memoria da conversa e aprendizado a cada 10 interacoes; Jira com login unico e aba de cards; auditoria de entrega; setup de entrega no app; terminal estilo MobaXterm.",
-  "sha256": "5705ada4f4f072d5116eb8f3ed570e5c0a05e06b9b9e95e22f230b6e4f518ebc"
+  "version": "1.8.1",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.8.1/RemoteTroubleshooter-1.8.1-win64.zip",
+  "changelog": "Card do Jira gerenciado no app (tempo, prazo, em andamento, impedimento, finalizar); login do Jira so com e-mail e token; IA externa opcional (NVIDIA NIM / OpenRouter) com dados mascarados; setup de entrega sem congelar a tela.",
+  "sha256": "24a583a30a7296c14e5699e83d8b21e4a0e5f4d7249cd30e468f21bdf3afa9e0"
 }
