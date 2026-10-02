@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.5.1/RemoteTroubleshooter-1.5.1-win64.zip",
-  "changelog": "Validar NVMe corrigido (le a tela PCIe Slots), chave SSH alterada pode ser confirmada no app, instalador para Windows e downloads em repositorio proprio.",
-  "sha256": "d6d258e20e9d004e62f063145b9b64121323b1ecd2033afd43fff6c63a95df90"
+  "version": "1.6.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.6.0/RemoteTroubleshooter-1.6.0-win64.zip",
+  "changelog": "IA acompanhando o terminal: detecta erros e propoe solucoes, sempre com aprovacao do usuario para comandos que alteram o servidor. iDRAC: consultar e habilitar/desabilitar LDAP e Active Directory. Correcoes de estabilidade.",
+  "sha256": "9f3618a3c8dbc5dfb009890b83b4ac3c695e298121c2b19193413c3722a1032a"
 }
