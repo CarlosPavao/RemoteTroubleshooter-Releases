@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.7.0/RemoteTroubleshooter-1.7.0-win64.zip",
-  "changelog": "Banco de solucoes da empresa ja configurado (falta so a senha). Terminal: aba Resolucoes (Proxmox) e correcao direta do erro 401 do repositorio enterprise. iDRAC: ordem de boot e reinicio do servidor apos trocar para porta dedicada.",
-  "sha256": "333fc6260adfe26da6f166396e070d7ce84b1fc9032a7311cd43009d71a04e8f"
+  "version": "1.8.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.8.0/RemoteTroubleshooter-1.8.0-win64.zip",
+  "changelog": "IA com memoria da conversa e aprendizado a cada 10 interacoes; Jira com login unico e aba de cards; auditoria de entrega; setup de entrega no app; terminal estilo MobaXterm.",
+  "sha256": "5705ada4f4f072d5116eb8f3ed570e5c0a05e06b9b9e95e22f230b6e4f518ebc"
 }
