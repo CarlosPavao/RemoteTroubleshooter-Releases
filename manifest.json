@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.8.1/RemoteTroubleshooter-1.8.1-win64.zip",
-  "changelog": "Card do Jira gerenciado no app (tempo, prazo, em andamento, impedimento, finalizar); login do Jira so com e-mail e token; IA externa opcional (NVIDIA NIM / OpenRouter) com dados mascarados; setup de entrega sem congelar a tela.",
-  "sha256": "24a583a30a7296c14e5699e83d8b21e4a0e5f4d7249cd30e468f21bdf3afa9e0"
+  "version": "1.9.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.9.0/RemoteTroubleshooter-1.9.0-win64.zip",
+  "changelog": "Jarbas: agente de IA local com base de casos e busca web propria; tela Hoje, Ctrl+K e tema novo; manutencao iDRAC/iLO (energia, logs, TSR/AHS, RAID, rede e senha do BMC); resolucao Redundancia EFI AlmaLinux",
+  "sha256": "b7a2e86749fbfbfcd145138496fed5f8b8ac042e2582eed809ef46cc35ac13bf"
 }
