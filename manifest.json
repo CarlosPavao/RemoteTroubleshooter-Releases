@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.9.0/RemoteTroubleshooter-1.9.0-win64.zip",
-  "changelog": "Jarbas: agente de IA local com base de casos e busca web propria; tela Hoje, Ctrl+K e tema novo; manutencao iDRAC/iLO (energia, logs, TSR/AHS, RAID, rede e senha do BMC); resolucao Redundancia EFI AlmaLinux",
-  "sha256": "b7a2e86749fbfbfcd145138496fed5f8b8ac042e2582eed809ef46cc35ac13bf"
+  "version": "1.10.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.10.0/RemoteTroubleshooter-1.10.0-win64.zip",
+  "changelog": "Jira: aba Equipes por responsavel e Ficha do servico (ATV + cards filhos: rede, maquina, SO, RAID, RAM, HBA, portas); Supermicro e Lenovo XCC; barra de energia; menus no iDRAC/iLO; Jarbas pesquisa em ingles; janela responsiva; terminal com fonte correta; visual refinado",
+  "sha256": "bf66ad53fb8cc66b263fc9388f54536b5ac8ab4bd98556e1732f06980afe63ac"
 }
