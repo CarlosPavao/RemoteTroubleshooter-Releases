@@ -1,6 +1,6 @@
 {
-  "version": "1.11.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.0/RemoteTroubleshooter-1.11.0-win64.zip",
-  "changelog": "Jira: abas por card, cards de NetTools/BaaS, finalizar passando por Em andamento; entrega bare metal e IF; setup de entrega atualiza a conexao salva; Redundancia EFI guiada; Jarbas mais rapido na CPU; professores do Jarbas (Claude, Groq gratuito, Gemini) e modelo treinado da equipe",
-  "sha256": "264307a205fb81588d93a29722f97f87f06bbccd3f62bfdbb712fdd1b6283850"
+  "version": "1.11.1",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.1/RemoteTroubleshooter-1.11.1-win64.zip",
+  "changelog": "Terminal no estilo MobaXterm (nano/htop corretos, mouse, busca, arquivos que acompanham o cd, log da sessao, multi-exec, anexar ao Jarbas e ao Jira); Jarbas coleta evidencias reais do servidor (so leitura) e segue roteiros da equipe; professores OpenRouter (gratuito), Gemini e Hugging Face com ajuda para gerar as chaves; limite diario dos professores",
+  "sha256": "9d6a56024f51c78787321d72a80c8b47b9902ba673def89f5cd76fa8f370edfb"
 }
