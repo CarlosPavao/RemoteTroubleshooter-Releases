@@ -1,6 +1,6 @@
 {
-  "version": "1.10.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.10.0/RemoteTroubleshooter-1.10.0-win64.zip",
-  "changelog": "Jira: aba Equipes por responsavel e Ficha do servico (ATV + cards filhos: rede, maquina, SO, RAID, RAM, HBA, portas); Supermicro e Lenovo XCC; barra de energia; menus no iDRAC/iLO; Jarbas pesquisa em ingles; janela responsiva; terminal com fonte correta; visual refinado",
-  "sha256": "bf66ad53fb8cc66b263fc9388f54536b5ac8ab4bd98556e1732f06980afe63ac"
+  "version": "1.11.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.0/RemoteTroubleshooter-1.11.0-win64.zip",
+  "changelog": "Jira: abas por card, cards de NetTools/BaaS, finalizar passando por Em andamento; entrega bare metal e IF; setup de entrega atualiza a conexao salva; Redundancia EFI guiada; Jarbas mais rapido na CPU; professores do Jarbas (Claude, Groq gratuito, Gemini) e modelo treinado da equipe",
+  "sha256": "264307a205fb81588d93a29722f97f87f06bbccd3f62bfdbb712fdd1b6283850"
 }
