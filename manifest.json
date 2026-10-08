@@ -1,6 +1,6 @@
 {
-  "version": "1.11.1",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.1/RemoteTroubleshooter-1.11.1-win64.zip",
-  "changelog": "Terminal no estilo MobaXterm (nano/htop corretos, mouse, busca, arquivos que acompanham o cd, log da sessao, multi-exec, anexar ao Jarbas e ao Jira); Jarbas coleta evidencias reais do servidor (so leitura) e segue roteiros da equipe; professores OpenRouter (gratuito), Gemini e Hugging Face com ajuda para gerar as chaves; limite diario dos professores",
-  "sha256": "9d6a56024f51c78787321d72a80c8b47b9902ba673def89f5cd76fa8f370edfb"
+  "version": "1.11.2",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.2/RemoteTroubleshooter-1.11.2-win64.zip",
+  "changelog": "Check-up do servidor na tela de Diagnostico: vereditos com prova (disco, SMART, RAID/ZFS, rede, memoria, servicos, Proxmox), roteiros que apontam a causa, cruzamento com o iDRAC/iLO, antes/depois enviado ao Jira; Preparar baremetal: IP do card vai para o IP de front e a gerencia e lida do DCIM com login automatico no iDRAC/iLO",
+  "sha256": "f7672d6aef4dd8178c9c7bc83bbd874befc0d3f7e6124a9f0cb3e7d8c73abad2"
 }
