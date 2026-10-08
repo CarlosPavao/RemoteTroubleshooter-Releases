@@ -1,6 +1,6 @@
 {
-  "version": "1.11.2",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.2/RemoteTroubleshooter-1.11.2-win64.zip",
-  "changelog": "Check-up do servidor na tela de Diagnostico: vereditos com prova (disco, SMART, RAID/ZFS, rede, memoria, servicos, Proxmox), roteiros que apontam a causa, cruzamento com o iDRAC/iLO, antes/depois enviado ao Jira; Preparar baremetal: IP do card vai para o IP de front e a gerencia e lida do DCIM com login automatico no iDRAC/iLO",
-  "sha256": "f7672d6aef4dd8178c9c7bc83bbd874befc0d3f7e6124a9f0cb3e7d8c73abad2"
+  "version": "1.11.3",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.3/RemoteTroubleshooter-1.11.3-win64.zip",
+  "changelog": "Menu no topo e so o botao de menu na lateral; Dashboard da equipe no Jira (entregas por analista, prazo, tempo, fila e atrasados, com filtros e exportacao); app mais leve; Jarbas avisa comando nao verificado e aprende com os comandos do terminal (professores OpenRouter/Gemini); elevacao de privilegio certa para cada servidor (su -, sudo -i, sudo su -), lembrando o que funcionou",
+  "sha256": "42ca74f3f15dffb36b4c26df5b60b16923a321a84935fa047db64b642572700f"
 }
