@@ -1,6 +1,6 @@
 {
-  "version": "1.11.3",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.3/RemoteTroubleshooter-1.11.3-win64.zip",
-  "changelog": "Menu no topo e so o botao de menu na lateral; Dashboard da equipe no Jira (entregas por analista, prazo, tempo, fila e atrasados, com filtros e exportacao); app mais leve; Jarbas avisa comando nao verificado e aprende com os comandos do terminal (professores OpenRouter/Gemini); elevacao de privilegio certa para cada servidor (su -, sudo -i, sudo su -), lembrando o que funcionou",
-  "sha256": "42ca74f3f15dffb36b4c26df5b60b16923a321a84935fa047db64b642572700f"
+  "version": "1.11.4",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.4/RemoteTroubleshooter-1.11.4-win64.zip",
+  "changelog": "Jarbas dentro do Terminal (aba ao lado de Resolucoes, com Executar/Inserir nos comandos); respostas do Jarbas nao cortam mais no meio e a conversa nao encerra sozinha; Baremetal: mascara e gateway do card conferidos no IPAM, MAC e porta real do switch lidos pelo iDRAC/iLO; Automacao Jira reconhece Object Storage; Reabrir terminal reconecta o SSH quando a conexao caiu; qm unlock e similares pedem aprovacao",
+  "sha256": "f629b5d0739e77024678dc3942adb5174266319d5523c194f5f9d6275026b79b"
 }
