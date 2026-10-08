@@ -1,6 +1,6 @@
 {
-  "version": "1.11.4",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.4/RemoteTroubleshooter-1.11.4-win64.zip",
-  "changelog": "Jarbas dentro do Terminal (aba ao lado de Resolucoes, com Executar/Inserir nos comandos); respostas do Jarbas nao cortam mais no meio e a conversa nao encerra sozinha; Baremetal: mascara e gateway do card conferidos no IPAM, MAC e porta real do switch lidos pelo iDRAC/iLO; Automacao Jira reconhece Object Storage; Reabrir terminal reconecta o SSH quando a conexao caiu; qm unlock e similares pedem aprovacao",
-  "sha256": "f629b5d0739e77024678dc3942adb5174266319d5523c194f5f9d6275026b79b"
+  "version": "1.11.5",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.5/RemoteTroubleshooter-1.11.5-win64.zip",
+  "changelog": "Clicar num card do Jira com a maquina ja entra no iDRAC/iLO com usuario e senha do DCIM; card de Object Storage so com cliente e o bloco do servico (como o IT-4356); botao Automacoes Jira desliga quando o card do servico ja existe; descricao dos cards de servico sem SO/RAID/servidores (OBS mantidas); IP e gateway de blocos /28 e /29; preparo avisa e oferece mudar a maquina para Disponivel (com confirmacao) antes do pedido; erro do baremetal diz qual passo falhou",
+  "sha256": "d371f31993cc52039ea75bdd9fd82a13b7fe733031ba55de0547c7db914ba6b2"
 }
