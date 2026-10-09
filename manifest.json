@@ -1,6 +1,6 @@
 {
-  "version": "1.11.5",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.5/RemoteTroubleshooter-1.11.5-win64.zip",
-  "changelog": "Clicar num card do Jira com a maquina ja entra no iDRAC/iLO com usuario e senha do DCIM; card de Object Storage so com cliente e o bloco do servico (como o IT-4356); botao Automacoes Jira desliga quando o card do servico ja existe; descricao dos cards de servico sem SO/RAID/servidores (OBS mantidas); IP e gateway de blocos /28 e /29; preparo avisa e oferece mudar a maquina para Disponivel (com confirmacao) antes do pedido; erro do baremetal diz qual passo falhou",
-  "sha256": "d371f31993cc52039ea75bdd9fd82a13b7fe733031ba55de0547c7db914ba6b2"
+  "version": "1.11.6",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.6/RemoteTroubleshooter-1.11.6-win64.zip",
+  "changelog": "Diagnostico explicado (causas por confianca e texto para o Jira); analise do hardware pelo iDRAC/iLO junto com o SSH; entrar no iDRAC pelo S ou nome da maquina no DCIM; atualizacao de firmware pelo repositorio local com relatorio e reinicio opcional (iDRAC fixado em 7.00.00.184); padrao de entrega com hora de Brasilia e POST sem parar no F1; atalhos para tudo isso na tela do Jarbas; atualizacao automatica ao abrir",
+  "sha256": "2f811592260f2eb36d92e11afb4f6c1f87fbe4132fe47a137c6fd4ebc25514ef"
 }
