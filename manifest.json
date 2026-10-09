@@ -1,6 +1,6 @@
 {
-  "version": "1.11.7",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.7/RemoteTroubleshooter-1.11.7-win64.zip",
-  "changelog": "Pitolomeu: agente de firmware que, ao logar numa maquina, identifica o modelo, baixa o firmware recomendado para o repositorio local e avisa o que a maquina tem para atualizar (Dell, HPE e Lenovo pelo OneCLI oficial; Huawei, Quanta, Supermicro e Positivo guardam referencia de versoes); aprendizado compartilhado no banco da equipe; repositorio sem repeticao com o modelo no nome do arquivo; aba iDRAC com login em uma linha e botoes de hardware, firmware e padrao de entrega a vista",
-  "sha256": "90f96319b2dedb46eb7dabf59da5f960511e6a5bb8e9c007f58c6b3b37fbf53f"
+  "version": "1.11.8",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.8/RemoteTroubleshooter-1.11.8-win64.zip",
+  "changelog": "Interface nova e responsiva (tela Hoje com atalhos, conexao com ultimos servidores, iDRAC com login em grade e energia compacta, avisos quando falta conexao, todas as telas cabem em janela estreita); firmware Lenovo aplicado pelo XCC; aviso do Pitolomeu na aba iDRAC; tela do servidor pelo iDRAC (abre sozinha se o firmware ficar preso no POST); diagnostico formatado anexado ao chamado do Jira; Jira sem travar (fila de tarefas maior, dashboard mais rapido); trava do iDRAC 7.00.00.184 so no C6420",
+  "sha256": "f125477bd8949c606f2cb50e290a8f426cec3676aff9f154db6e9628f7db7a95"
 }
