@@ -1,6 +1,6 @@
 {
-  "version": "1.11.6",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.6/RemoteTroubleshooter-1.11.6-win64.zip",
-  "changelog": "Diagnostico explicado (causas por confianca e texto para o Jira); analise do hardware pelo iDRAC/iLO junto com o SSH; entrar no iDRAC pelo S ou nome da maquina no DCIM; atualizacao de firmware pelo repositorio local com relatorio e reinicio opcional (iDRAC fixado em 7.00.00.184); padrao de entrega com hora de Brasilia e POST sem parar no F1; atalhos para tudo isso na tela do Jarbas; atualizacao automatica ao abrir",
-  "sha256": "2f811592260f2eb36d92e11afb4f6c1f87fbe4132fe47a137c6fd4ebc25514ef"
+  "version": "1.11.7",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.7/RemoteTroubleshooter-1.11.7-win64.zip",
+  "changelog": "Pitolomeu: agente de firmware que, ao logar numa maquina, identifica o modelo, baixa o firmware recomendado para o repositorio local e avisa o que a maquina tem para atualizar (Dell, HPE e Lenovo pelo OneCLI oficial; Huawei, Quanta, Supermicro e Positivo guardam referencia de versoes); aprendizado compartilhado no banco da equipe; repositorio sem repeticao com o modelo no nome do arquivo; aba iDRAC com login em uma linha e botoes de hardware, firmware e padrao de entrega a vista",
+  "sha256": "90f96319b2dedb46eb7dabf59da5f960511e6a5bb8e9c007f58c6b3b37fbf53f"
 }
