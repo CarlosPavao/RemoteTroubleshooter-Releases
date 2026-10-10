@@ -1,6 +1,6 @@
 {
-  "version": "1.11.8",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.8/RemoteTroubleshooter-1.11.8-win64.zip",
-  "changelog": "Interface nova e responsiva (tela Hoje com atalhos, conexao com ultimos servidores, iDRAC com login em grade e energia compacta, avisos quando falta conexao, todas as telas cabem em janela estreita); firmware Lenovo aplicado pelo XCC; aviso do Pitolomeu na aba iDRAC; tela do servidor pelo iDRAC (abre sozinha se o firmware ficar preso no POST); diagnostico formatado anexado ao chamado do Jira; Jira sem travar (fila de tarefas maior, dashboard mais rapido); trava do iDRAC 7.00.00.184 so no C6420",
-  "sha256": "f125477bd8949c606f2cb50e290a8f426cec3676aff9f154db6e9628f7db7a95"
+  "version": "1.11.9",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.9/RemoteTroubleshooter-1.11.9-win64.zip",
+  "changelog": "v1.11.9: Sherlock (QA da entrega com relatorio no Jira), Jarbas audita o SO, CADU revisa a escrita, Pitolomeu em segundo plano, iDRAC ate 7.00.00.184 e barra de carregamento com porcentagem.",
+  "sha256": "ab09e8f6e69aabee8c7560b6ea192a83e20f4d1fd37da03b76a5106279502a55"
 }
