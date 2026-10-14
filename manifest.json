@@ -1,6 +1,6 @@
 {
-  "version": "1.11.9",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.9/RemoteTroubleshooter-1.11.9-win64.zip",
-  "changelog": "v1.11.9: Sherlock (QA da entrega com relatorio no Jira), Jarbas audita o SO, CADU revisa a escrita, Pitolomeu em segundo plano, iDRAC ate 7.00.00.184 e barra de carregamento com porcentagem.",
-  "sha256": "ab09e8f6e69aabee8c7560b6ea192a83e20f4d1fd37da03b76a5106279502a55"
+  "version": "1.11.10",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.10/RemoteTroubleshooter-1.11.10-win64.zip",
+  "changelog": "v1.11.10: Pitolomeu so baixa firmware aplicavel pelo BMC, iDRAC no maximo 7.00.00.184 (pacote oficial e rollback plano B), corrige driver Dell no lugar do firmware (BCM57810) e se corrige sozinho em recusas, arquivo invalido, SHA-256 e 404.",
+  "sha256": "7be11de1e8d5a23791dc2360884f7f75c6c4c4d55444c972ea0992731d6153c6"
 }
