@@ -1,6 +1,6 @@
 {
-  "version": "1.11.10",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.10/RemoteTroubleshooter-1.11.10-win64.zip",
-  "changelog": "v1.11.10: Pitolomeu so baixa firmware aplicavel pelo BMC, iDRAC no maximo 7.00.00.184 (pacote oficial e rollback plano B), corrige driver Dell no lugar do firmware (BCM57810) e se corrige sozinho em recusas, arquivo invalido, SHA-256 e 404.",
-  "sha256": "7be11de1e8d5a23791dc2360884f7f75c6c4c4d55444c972ea0992731d6153c6"
+  "version": "1.11.11",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.11.11/RemoteTroubleshooter-1.11.11-win64.zip",
+  "changelog": "v1.11.11: professores do Jarbas de volta (chave nova liga o modo hibrido automaticamente) e CI verde (testes sem Cloudflare real).",
+  "sha256": "f2bca2ca2026246f611ffb653a39ebaa1fd9ba514fd2257d28d9df37cbfde056"
 }
