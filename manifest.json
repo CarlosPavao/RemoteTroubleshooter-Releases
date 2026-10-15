@@ -1,6 +1,6 @@
 {
-  "version": "1.12.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.0/RemoteTroubleshooter-1.12.0-win64.zip",
-  "changelog": "v1.12.0: entrega pelo card (escolhe a maquina quando o card tem varias), SSH padrao da equipe para o QA, QA da entrega com a marca Eveo (RAID equivalente, RAID sincronizando confere, link das portas pelo SO), telas mais simples (6 areas no topo) e iDRAC/iLO em dois passos.",
-  "sha256": "27dd33c630b169a9c81c0895722ab19cc1d7e67e509afa67fbd361925d3f8ba6"
+  "version": "1.12.1",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.1/RemoteTroubleshooter-1.12.1-win64.zip",
+  "changelog": "v1.12.1: Entrega IF volta a abrir (lamina dentro do chassi com 0U e slot, pede o modelo quando o DCIM esta Generic, ligacao Backend); senha mestra e tokens ligados a conta da empresa (mesma senha e tokens em todas as maquinas); clique no card do Jira abre o iDRAC sempre.",
+  "sha256": "fa1fd4c60c451cd9f96c96bda76b8851cef2bdf9b75b5bf29dec798597fafd82"
 }
