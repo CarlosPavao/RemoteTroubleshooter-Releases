@@ -1,6 +1,6 @@
 {
-  "version": "1.12.2",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.2/RemoteTroubleshooter-1.12.2-win64.zip",
-  "changelog": "v1.12.2: corrige o app fechando sozinho ao clicar em Entrega IF (e outras quedas sem mensagem); passa a registrar quedas em logs\\quedas.log.",
-  "sha256": "2f1e49b1451a166aa444c697e8b22a1e73204c113e8e91cb9f0b7c07e65ecece"
+  "version": "1.12.3",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.3/RemoteTroubleshooter-1.12.3-win64.zip",
+  "changelog": "v1.12.3: corrige a atualizacao que nao acontecia (exe com outro nome, processo preso, pasta protegida), mostra o progresso do download e registra cada passo em logs\\atualizacao.log.",
+  "sha256": "7c91893e86b17e2beec17ca28413f68dcdb5047e32af2b486733a952ca18e5db"
 }
