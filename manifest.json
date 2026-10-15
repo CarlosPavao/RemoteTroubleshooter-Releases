@@ -1,6 +1,6 @@
 {
-  "version": "1.12.3",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.3/RemoteTroubleshooter-1.12.3-win64.zip",
-  "changelog": "v1.12.3: corrige a atualizacao que nao acontecia (exe com outro nome, processo preso, pasta protegida), mostra o progresso do download e registra cada passo em logs\\atualizacao.log.",
-  "sha256": "7c91893e86b17e2beec17ca28413f68dcdb5047e32af2b486733a952ca18e5db"
+  "version": "1.12.4",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.4/RemoteTroubleshooter-1.12.4-win64.zip",
+  "changelog": "v1.12.4: Entrega IF em duas etapas - 1) cadastro com DC (agora sempre pedido, inclusive para lamina) e discovery Redfish; 2) ligacoes com as portas descobertas.",
+  "sha256": "3f7bc7a64b7b9bf8c511b7b67b4cefa0483c2ce1f9524042e1e6915609f273d1"
 }
