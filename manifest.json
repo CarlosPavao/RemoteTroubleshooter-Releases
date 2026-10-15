@@ -1,6 +1,6 @@
 {
-  "version": "1.12.1",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.1/RemoteTroubleshooter-1.12.1-win64.zip",
-  "changelog": "v1.12.1: Entrega IF volta a abrir (lamina dentro do chassi com 0U e slot, pede o modelo quando o DCIM esta Generic, ligacao Backend); senha mestra e tokens ligados a conta da empresa (mesma senha e tokens em todas as maquinas); clique no card do Jira abre o iDRAC sempre.",
-  "sha256": "fa1fd4c60c451cd9f96c96bda76b8851cef2bdf9b75b5bf29dec798597fafd82"
+  "version": "1.12.2",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.2/RemoteTroubleshooter-1.12.2-win64.zip",
+  "changelog": "v1.12.2: corrige o app fechando sozinho ao clicar em Entrega IF (e outras quedas sem mensagem); passa a registrar quedas em logs\\quedas.log.",
+  "sha256": "2f1e49b1451a166aa444c697e8b22a1e73204c113e8e91cb9f0b7c07e65ecece"
 }
