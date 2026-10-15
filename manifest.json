@@ -1,6 +1,6 @@
 {
-  "version": "1.12.4",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.4/RemoteTroubleshooter-1.12.4-win64.zip",
-  "changelog": "v1.12.4: Entrega IF em duas etapas - 1) cadastro com DC (agora sempre pedido, inclusive para lamina) e discovery Redfish; 2) ligacoes com as portas descobertas.",
-  "sha256": "3f7bc7a64b7b9bf8c511b7b67b4cefa0483c2ce1f9524042e1e6915609f273d1"
+  "version": "1.12.5",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.5/RemoteTroubleshooter-1.12.5-win64.zip",
+  "changelog": "v1.12.5: o botao Atualizar agora volta a funcionar; Entrega IF mostra o pedido de cada maquina (nao a soma do card) e le discos como 2 x NVME de 2TB.",
+  "sha256": "fa024ade122050eeffe5e4683c7441cf25d75137cbcfe485c381733ad5db786f"
 }
