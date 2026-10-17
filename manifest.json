@@ -1,6 +1,6 @@
 {
-  "version": "1.12.7",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.7/RemoteTroubleshooter-1.12.7-win64.zip",
-  "changelog": "Jira: card abre na hora (ATV e filhos sob demanda), botao Atualizar card, Carregar todos e visual novo do card. Entrega IF: firmware pelo Pitolomeu, portas ge/xe pela velocidade, porta PCIe e do BMC criadas no DCIM pelo MAC, logs de erro limpos.",
-  "sha256": "c380b4f434df8c2cb8d0400a1867409a96c1e8204c42b2336089e3347429e07d"
+  "version": "1.12.8",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.8/RemoteTroubleshooter-1.12.8-win64.zip",
+  "changelog": "Correcao do botao de atualizar: nunca encerra processo que nao e o app (a tela ficava preta) e sem janelas de cmd aparecendo. Melhorias da aba Jira: card abre na hora, Atualizar card, Carregar todos e visual novo.",
+  "sha256": "df2a74c87ef6a7dda4084726b1dba414c7826d6002e192159c8412d204b009d7"
 }
