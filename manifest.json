@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.0/RemoteTroubleshooter-1.13.0-win64.zip",
-  "changelog": "Atualizacao mais confiavel: corrige o erro Failed to load Python DLL ao atualizar (pacote onedir). Ficha do Jira: cache em disco, destaque do que mudou no Atualizar, busca Ctrl+F e botao Copiar. Lista Meus cards: filtro e contador por status.",
-  "sha256": "0d64373340eef65a31f893520fd828a6a8356b688f4015ebc9118e128af399c3"
+  "version": "1.13.1",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.1/RemoteTroubleshooter-1.13.1-win64.zip",
+  "changelog": "Aba Jira mais enxuta: busca, filtro de status e contador numa so linha; lista Meus cards sem rolagem horizontal; barra de acoes da ficha que quebra de linha. Ficha abre mais leve (cache renderizado sob demanda).",
+  "sha256": "de00cda92d269a4a65fda971f2bffb9b160f7e60612ed00bc85722b093c42f3a"
 }
