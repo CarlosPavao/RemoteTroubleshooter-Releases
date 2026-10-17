@@ -1,6 +1,6 @@
 {
-  "version": "1.12.5",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.5/RemoteTroubleshooter-1.12.5-win64.zip",
-  "changelog": "v1.12.5: o botao Atualizar agora volta a funcionar; Entrega IF mostra o pedido de cada maquina (nao a soma do card) e le discos como 2 x NVME de 2TB.",
-  "sha256": "fa024ade122050eeffe5e4683c7441cf25d75137cbcfe485c381733ad5db786f"
+  "version": "1.12.7",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.7/RemoteTroubleshooter-1.12.7-win64.zip",
+  "changelog": "Jira: card abre na hora (ATV e filhos sob demanda), botao Atualizar card, Carregar todos e visual novo do card. Entrega IF: firmware pelo Pitolomeu, portas ge/xe pela velocidade, porta PCIe e do BMC criadas no DCIM pelo MAC, logs de erro limpos.",
+  "sha256": "c380b4f434df8c2cb8d0400a1867409a96c1e8204c42b2336089e3347429e07d"
 }
