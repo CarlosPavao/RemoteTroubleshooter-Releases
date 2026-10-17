@@ -1,6 +1,6 @@
 {
-  "version": "1.12.8",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.8/RemoteTroubleshooter-1.12.8-win64.zip",
-  "changelog": "Correcao do botao de atualizar: nunca encerra processo que nao e o app (a tela ficava preta) e sem janelas de cmd aparecendo. Melhorias da aba Jira: card abre na hora, Atualizar card, Carregar todos e visual novo.",
-  "sha256": "df2a74c87ef6a7dda4084726b1dba414c7826d6002e192159c8412d204b009d7"
+  "version": "1.12.9",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.12.9/RemoteTroubleshooter-1.12.9-win64.zip",
+  "changelog": "Aba Jira: lista Meus cards enxuta mostrando nome da maquina, card (IT) e status com bolinha colorida.",
+  "sha256": "d2b5e740e303c028db285d24c2aa72f8c4a78ae69ca2c19548c207fc9e1f21bb"
 }
