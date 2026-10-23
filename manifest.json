@@ -1,6 +1,6 @@
 {
-  "version": "1.13.1",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.1/RemoteTroubleshooter-1.13.1-win64.zip",
-  "changelog": "Aba Jira mais enxuta: busca, filtro de status e contador numa so linha; lista Meus cards sem rolagem horizontal; barra de acoes da ficha que quebra de linha. Ficha abre mais leve (cache renderizado sob demanda).",
-  "sha256": "de00cda92d269a4a65fda971f2bffb9b160f7e60612ed00bc85722b093c42f3a"
+  "version": "1.13.2",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.2/RemoteTroubleshooter-1.13.2-win64.zip",
+  "changelog": "Jira: cards com varias maquinas - Logar no BMC, Preparar no baremetal e QA da entrega listam as maquinas do card para escolher, e cada maquina e publicada a parte no QA. Bloco de rede buscado tambem nos cards RED filhos. Limpeza interna de codigo repetido.",
+  "sha256": "419a0e98a9cca83fe5984d89a060d68b7cd3150a525144d8b6a42ad7a4e489f2"
 }
