@@ -1,6 +1,6 @@
 {
-  "version": "1.13.1",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.1/RemoteTroubleshooter-1.13.1-win64.zip",
-  "changelog": "Aba Jira mais enxuta: busca, filtro de status e contador numa so linha; lista Meus cards sem rolagem horizontal; barra de acoes da ficha que quebra de linha. Ficha abre mais leve (cache renderizado sob demanda).",
-  "sha256": "de00cda92d269a4a65fda971f2bffb9b160f7e60612ed00bc85722b093c42f3a"
+  "version": "1.13.3",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.3/RemoteTroubleshooter-1.13.3-win64.zip",
+  "changelog": "Corrige a v1.13.2, que nao abria depois de atualizar a partir da v1.13.1 (erro: module 'yaml' has no attribute 'error'). Inclui as novidades da v1.13.2: no Jira, cards com varias maquinas - Logar no BMC, Preparar no baremetal e QA da entrega listam as maquinas do card para escolher, e cada maquina e publicada a parte no QA. Bloco de rede buscado tambem nos cards RED filhos.",
+  "sha256": "649713912f8138d10fd51a10b8cefa3173fc6d81e3f9c03fb47485ab36eb375c"
 }
