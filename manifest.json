@@ -1,6 +1,6 @@
 {
-  "version": "1.13.3",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.3/RemoteTroubleshooter-1.13.3-win64.zip",
-  "changelog": "Corrige a v1.13.2, que nao abria depois de atualizar a partir da v1.13.1 (erro: module 'yaml' has no attribute 'error'). Inclui as novidades da v1.13.2: no Jira, cards com varias maquinas - Logar no BMC, Preparar no baremetal e QA da entrega listam as maquinas do card para escolher, e cada maquina e publicada a parte no QA. Bloco de rede buscado tambem nos cards RED filhos.",
-  "sha256": "649713912f8138d10fd51a10b8cefa3173fc6d81e3f9c03fb47485ab36eb375c"
+  "version": "1.13.4",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.4/RemoteTroubleshooter-1.13.4-win64.zip",
+  "changelog": "Atualizacao e instalador agora apagam os arquivos que sobraram da versao anterior (o que fez a v1.13.2 nao abrir); os inventarios gerados (reports_output) sao mantidos. Mesmas funcionalidades da v1.13.3.",
+  "sha256": "d4277d7871aa7b312911635cc5fdacd8b8f2a64cdeb3a8866ee41a1f99aa397d"
 }
