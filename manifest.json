@@ -1,6 +1,6 @@
 {
-  "version": "1.14.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.14.0/RemoteTroubleshooter-1.14.0-win64.zip",
-  "changelog": "Jarbas aprende melhor: baixa sozinho o bge-m3 (busca por significado), botao Revisar licoes, avaliacao 'a base ajudou / nao ajudou' nas respostas, oferece registrar o caso quando voce diz que deu certo, e casos de espelho (RAID 1) de disco dinamico no Windows Server.",
-  "sha256": "b8ef503576214c20101349764e165f72b719bb2386c9ac41377cb33fd7d5272c"
+  "version": "1.15.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.15.0/RemoteTroubleshooter-1.15.0-win64.zip",
+  "changelog": "Jarbas acha a licao certa em 97% das perguntas (antes 81%) e entende continuacoes como 'nao funcionou, e agora?'. O terminal e os diagnosticos passam a usar as licoes aprovadas da equipe: 15 de 19 erros resolvidos direto sem IA e nenhuma resposta errada; nos diagnosticos a sugestao certa aparece em 9 de 10.",
+  "sha256": "07f769641f373c202d793b67bfcfe2c9b4223338ce343db7955c8dc3a984a6d7"
 }
