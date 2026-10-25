@@ -1,6 +1,6 @@
 {
-  "version": "1.13.4",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.13.4/RemoteTroubleshooter-1.13.4-win64.zip",
-  "changelog": "Atualizacao e instalador agora apagam os arquivos que sobraram da versao anterior (o que fez a v1.13.2 nao abrir); os inventarios gerados (reports_output) sao mantidos. Mesmas funcionalidades da v1.13.3.",
-  "sha256": "d4277d7871aa7b312911635cc5fdacd8b8f2a64cdeb3a8866ee41a1f99aa397d"
+  "version": "1.14.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.14.0/RemoteTroubleshooter-1.14.0-win64.zip",
+  "changelog": "Jarbas aprende melhor: baixa sozinho o bge-m3 (busca por significado), botao Revisar licoes, avaliacao 'a base ajudou / nao ajudou' nas respostas, oferece registrar o caso quando voce diz que deu certo, e casos de espelho (RAID 1) de disco dinamico no Windows Server.",
+  "sha256": "b8ef503576214c20101349764e165f72b719bb2386c9ac41377cb33fd7d5272c"
 }
