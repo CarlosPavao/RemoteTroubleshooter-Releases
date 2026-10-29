@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.17.0/RemoteTroubleshooter-1.17.0-win64.zip",
-  "changelog": "Resolucoes rodam no terminal (como comando digitado); Jarbas executa ordens como 'jarbas, instalar cpanel'; instalacao do cPanel mantem o nome da maquina e o firewall ligado; firmware Supermicro, QA de entrega sem SO e confirmacao antes de postar no Jira; correcao da entrega IF e do Dashboard do Jira.",
-  "sha256": "ea464bf41a9537a222d51f056792e29245feb6c797387a3c144e4812beffe4d6"
+  "version": "1.18.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.0/RemoteTroubleshooter-1.18.0-win64.zip",
+  "changelog": "Setup de entrega no padrao novo do Assistente (/wizard): conectar, inventario, opcoes conforme o servidor (RAID flexivel, STaaS, testes de rede/FIO/HBA) e checklist final com link do Password Pusher. Aviso de VPN quando o BMC nao responde por falta de rota para a rede interna.",
+  "sha256": "383506dc05fabd02f1fc09dfb095404977e0faf4eecb12c87314579a1490cb23"
 }
