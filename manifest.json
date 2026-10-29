@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.16.0/RemoteTroubleshooter-1.16.0-win64.zip",
-  "changelog": "Instalar cPanel & WHM em um clique: Terminal > Resolucoes > Instalar cPanel (simula, instala e acompanha). Jarbas conhece o roteiro.",
-  "sha256": "29d0f30507d06ae86d2db40bf648b362536f943f0692186c1ac1404fbb052cf2"
+  "version": "1.17.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.17.0/RemoteTroubleshooter-1.17.0-win64.zip",
+  "changelog": "Resolucoes rodam no terminal (como comando digitado); Jarbas executa ordens como 'jarbas, instalar cpanel'; instalacao do cPanel mantem o nome da maquina e o firewall ligado; firmware Supermicro, QA de entrega sem SO e confirmacao antes de postar no Jira; correcao da entrega IF e do Dashboard do Jira.",
+  "sha256": "ea464bf41a9537a222d51f056792e29245feb6c797387a3c144e4812beffe4d6"
 }
