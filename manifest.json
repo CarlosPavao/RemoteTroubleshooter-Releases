@@ -1,6 +1,6 @@
 {
-  "version": "1.15.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.15.0/RemoteTroubleshooter-1.15.0-win64.zip",
-  "changelog": "Jarbas acha a licao certa em 97% das perguntas (antes 81%) e entende continuacoes como 'nao funcionou, e agora?'. O terminal e os diagnosticos passam a usar as licoes aprovadas da equipe: 15 de 19 erros resolvidos direto sem IA e nenhuma resposta errada; nos diagnosticos a sugestao certa aparece em 9 de 10.",
-  "sha256": "07f769641f373c202d793b67bfcfe2c9b4223338ce343db7955c8dc3a984a6d7"
+  "version": "1.16.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.16.0/RemoteTroubleshooter-1.16.0-win64.zip",
+  "changelog": "Instalar cPanel & WHM em um clique: Terminal > Resolucoes > Instalar cPanel (simula, instala e acompanha). Jarbas conhece o roteiro.",
+  "sha256": "29d0f30507d06ae86d2db40bf648b362536f943f0692186c1ac1404fbb052cf2"
 }
