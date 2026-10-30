@@ -1,6 +1,6 @@
 {
-  "version": "1.18.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.0/RemoteTroubleshooter-1.18.0-win64.zip",
-  "changelog": "Setup de entrega no padrao novo do Assistente (/wizard): conectar, inventario, opcoes conforme o servidor (RAID flexivel, STaaS, testes de rede/FIO/HBA) e checklist final com link do Password Pusher. Aviso de VPN quando o BMC nao responde por falta de rota para a rede interna.",
-  "sha256": "383506dc05fabd02f1fc09dfb095404977e0faf4eecb12c87314579a1490cb23"
+  "version": "1.18.5",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.5/RemoteTroubleshooter-1.18.5-win64.zip",
+  "changelog": "Release v1.18.5",
+  "sha256": "46d649d5ac76cf2355ad67963f1dcc44e89f10a8c1ca69f0d152397ffb2771d3"
 }
