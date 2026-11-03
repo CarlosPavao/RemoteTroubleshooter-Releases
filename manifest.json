@@ -1,6 +1,6 @@
 {
   "version": "1.18.8",
   "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.8/RemoteTroubleshooter-1.18.8-win64.zip",
-  "changelog": "Release v1.18.8",
+  "changelog": "A entrega guiada prepara o baremetal, atualiza o firmware e só segue para o SO e o QA com confirmação.",
   "sha256": "2ba9c429910524154a47a551307103efdf36eb5284999a08c1212dc9f7a964bc"
 }
