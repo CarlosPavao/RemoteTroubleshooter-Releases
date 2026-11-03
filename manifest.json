@@ -1,6 +1,6 @@
 {
-  "version": "1.18.10",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.10/RemoteTroubleshooter-1.18.10-win64.zip",
-  "changelog": "O checklist da entrega entra no card em tabelas e, depois do reboot, o setup só abre quando o IP responde ao ping.",
-  "sha256": "7edcce1c55ee3c3249fb60ebd08c478844f42d0293e145c73388214ac1b029a1"
+  "version": "1.18.11",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.11/RemoteTroubleshooter-1.18.11-win64.zip",
+  "changelog": "A entrega aplica perfil e ordem de boot no mesmo reinício, o QA entra no SO com o usuário do setup e deixa de cobrar atualização de pacotes.",
+  "sha256": "db2dbbdf975d81e3dc923f424a1163edb47321b820d75c8b715dd2e348c16230"
 }
