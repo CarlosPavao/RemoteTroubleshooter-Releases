@@ -1,6 +1,6 @@
 {
-  "version": "1.18.12",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.12/RemoteTroubleshooter-1.18.12-win64.zip",
-  "changelog": "O espelho de /boot reconhece a distro e o Jarbas já propõe a correção quando a simulação para.",
-  "sha256": "0936d6a5813ccabf8a8d2b62e2400b35327ce71cf1a8852de58c1cb08ec74e2b"
+  "version": "1.18.13",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.13/RemoteTroubleshooter-1.18.13-win64.zip",
+  "changelog": "A entrega de Windows sem SSH monta o relatório com o retorno do script do setup, e o e-mail do responsável confirma o cliente no DCIM.",
+  "sha256": "7f09e2895ac99cdfbce863c47433737a2bd5acbf4ec8ddfea84b557197daf187"
 }
