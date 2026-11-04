@@ -1,6 +1,6 @@
 {
-  "version": "1.18.14",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.14/RemoteTroubleshooter-1.18.14-win64.zip",
-  "changelog": "A entrega não reinicia se o iDRAC recusar o perfil ou a ordem de boot: o job de BIOS que travava a gravação é apagado e os dois só passam depois de conferidos.",
-  "sha256": "437fe14a527964dc2d94faae466248f5cce6c8ac655a1114151529e9093fb9b6"
+  "version": "1.18.15",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.15/RemoteTroubleshooter-1.18.15-win64.zip",
+  "changelog": "O checklist do setup acompanha o relatório do script, a saudação segue o relógio e a entrega guiada chega a 100% quando o último passo fecha.",
+  "sha256": "f7046222a021386965356a6a702f052130503352f5fe0c56bf4b7c03bbd4d5ad"
 }
