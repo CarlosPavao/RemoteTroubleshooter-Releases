@@ -1,6 +1,6 @@
 {
-  "version": "1.18.11",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.11/RemoteTroubleshooter-1.18.11-win64.zip",
-  "changelog": "A entrega aplica perfil e ordem de boot no mesmo reinício, o QA entra no SO com o usuário do setup e deixa de cobrar atualização de pacotes.",
-  "sha256": "db2dbbdf975d81e3dc923f424a1163edb47321b820d75c8b715dd2e348c16230"
+  "version": "1.18.12",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.12/RemoteTroubleshooter-1.18.12-win64.zip",
+  "changelog": "O espelho de /boot reconhece a distro e o Jarbas já propõe a correção quando a simulação para.",
+  "sha256": "0936d6a5813ccabf8a8d2b62e2400b35327ce71cf1a8852de58c1cb08ec74e2b"
 }
