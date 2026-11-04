@@ -1,6 +1,6 @@
 {
-  "version": "1.18.13",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.13/RemoteTroubleshooter-1.18.13-win64.zip",
-  "changelog": "A entrega de Windows sem SSH monta o relatório com o retorno do script do setup, e o e-mail do responsável confirma o cliente no DCIM.",
-  "sha256": "7f09e2895ac99cdfbce863c47433737a2bd5acbf4ec8ddfea84b557197daf187"
+  "version": "1.18.14",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.14/RemoteTroubleshooter-1.18.14-win64.zip",
+  "changelog": "A entrega não reinicia se o iDRAC recusar o perfil ou a ordem de boot: o job de BIOS que travava a gravação é apagado e os dois só passam depois de conferidos.",
+  "sha256": "437fe14a527964dc2d94faae466248f5cce6c8ac655a1114151529e9093fb9b6"
 }
