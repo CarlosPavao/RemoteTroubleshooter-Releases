@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.0/RemoteTroubleshooter-1.19.0-win64.zip",
-  "changelog": "O console do EasyDCIM abre na aplicação e a ISO de instalação entra nessa mesma sessão.",
-  "sha256": "9e1ee70571d3861c87e23a6978bb73138adaa437f30a7d4202669b62c72dfae9"
+  "version": "1.19.1",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.1/RemoteTroubleshooter-1.19.1-win64.zip",
+  "changelog": "A ISO escolhida entra no CD virtual do iDRAC mesmo com a mídia solta, e a lista ganha busca.",
+  "sha256": "c363d06b31cffa18cbfdcc3df402d28d663b13d2ab4e4e731f0c9e71a62ee5b2"
 }
