@@ -1,6 +1,6 @@
 {
-  "version": "1.18.16",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.16/RemoteTroubleshooter-1.18.16-win64.zip",
-  "changelog": "HBA Fibre Channel no dedicado oferece o card StaaS na automação do Jira mesmo quando o pedido não traz o nome staas-.",
-  "sha256": "4345ca7acede8971ce17eade76c43b73b898b5f3e94eff949e84b0ee1115bc3c"
+  "version": "1.18.17",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.17/RemoteTroubleshooter-1.18.17-win64.zip",
+  "changelog": "O espelho do /boot passa a valer em BIOS e a lição nova do Jarbas substitui a antiga.",
+  "sha256": "b5c3dbe8f0dbaffdac944e20ca7c81ed3279f8ba023ece6ca0ff5c4a9d3caeb3"
 }
