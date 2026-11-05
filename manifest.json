@@ -1,6 +1,6 @@
 {
-  "version": "1.18.17",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.17/RemoteTroubleshooter-1.18.17-win64.zip",
-  "changelog": "O espelho do /boot passa a valer em BIOS e a lição nova do Jarbas substitui a antiga.",
-  "sha256": "b5c3dbe8f0dbaffdac944e20ca7c81ed3279f8ba023ece6ca0ff5c4a9d3caeb3"
+  "version": "1.19.0",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.0/RemoteTroubleshooter-1.19.0-win64.zip",
+  "changelog": "O console do EasyDCIM abre na aplicação e a ISO de instalação entra nessa mesma sessão.",
+  "sha256": "9e1ee70571d3861c87e23a6978bb73138adaa437f30a7d4202669b62c72dfae9"
 }
