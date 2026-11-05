@@ -1,6 +1,6 @@
 {
-  "version": "1.18.15",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.15/RemoteTroubleshooter-1.18.15-win64.zip",
-  "changelog": "O checklist do setup acompanha o relatório do script, a saudação segue o relógio e a entrega guiada chega a 100% quando o último passo fecha.",
-  "sha256": "f7046222a021386965356a6a702f052130503352f5fe0c56bf4b7c03bbd4d5ad"
+  "version": "1.18.16",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.18.16/RemoteTroubleshooter-1.18.16-win64.zip",
+  "changelog": "HBA Fibre Channel no dedicado oferece o card StaaS na automação do Jira mesmo quando o pedido não traz o nome staas-.",
+  "sha256": "4345ca7acede8971ce17eade76c43b73b898b5f3e94eff949e84b0ee1115bc3c"
 }
