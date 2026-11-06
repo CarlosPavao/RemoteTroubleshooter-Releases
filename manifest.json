@@ -1,6 +1,6 @@
 {
-  "version": "1.19.4",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.4/RemoteTroubleshooter-1.19.4-win64.zip",
-  "changelog": "O setup guarda o usuário do relatório para o Jarbas auditar o SO. No fim do QA, a janela do Jira abre com o PDF e o retorno do setup, sem um comentário extra.",
-  "sha256": "1f02a2320869082623b5a84030a4c9d32ee49919f32f62ddac63f0d0cb15bd89"
+  "version": "1.19.5",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.5/RemoteTroubleshooter-1.19.5-win64.zip",
+  "changelog": "O resumo do servico mostra o Ubuntu e o RAID quando o titulo do card nao esta em maiusculas. O Jarbas aprende que, no Ubuntu com /boot em LVM no RAID5, a ESP solta espera o array completo antes do espelho.",
+  "sha256": "4d48d1fc790e6286b0d6b20bb236b37ba74ffa5a7ec6a87e11b24e832a3bebff"
 }
