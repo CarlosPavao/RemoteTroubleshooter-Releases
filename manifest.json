@@ -1,6 +1,6 @@
 {
-  "version": "1.19.3",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.3/RemoteTroubleshooter-1.19.3-win64.zip",
-  "changelog": "A entrega guiada pula o que já está no padrão, retoma de onde parou e abre um iDRAC por aba. O relatório mostra o IP uma vez quando confere, e o padrão de entrega limpa o log de erro do BMC.",
-  "sha256": "0484efaeb82a3ec9dc077ba42f7e8183e5ef921fde428b1bc721a3510a59dd79"
+  "version": "1.19.4",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.4/RemoteTroubleshooter-1.19.4-win64.zip",
+  "changelog": "O setup guarda o usuário do relatório para o Jarbas auditar o SO. No fim do QA, a janela do Jira abre com o PDF e o retorno do setup, sem um comentário extra.",
+  "sha256": "1f02a2320869082623b5a84030a4c9d32ee49919f32f62ddac63f0d0cb15bd89"
 }
