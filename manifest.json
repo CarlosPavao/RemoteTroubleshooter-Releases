@@ -1,6 +1,6 @@
 {
-  "version": "1.19.5",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.5/RemoteTroubleshooter-1.19.5-win64.zip",
-  "changelog": "O resumo do servico mostra o Ubuntu e o RAID quando o titulo do card nao esta em maiusculas. O Jarbas aprende que, no Ubuntu com /boot em LVM no RAID5, a ESP solta espera o array completo antes do espelho.",
-  "sha256": "4d48d1fc790e6286b0d6b20bb236b37ba74ffa5a7ec6a87e11b24e832a3bebff"
+  "version": "1.19.6",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.6/RemoteTroubleshooter-1.19.6-win64.zip",
+  "changelog": "O QA aceita RAID5 quando o espaço útil é o do RAID1 pedido, e o botão Console do DCIM abre a máquina da aba.",
+  "sha256": "e457582e86b656df73a2be900f4deea5cd24c79049bbeef654c8e8c757e0574b"
 }
