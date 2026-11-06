@@ -1,6 +1,6 @@
 {
-  "version": "1.19.2",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.2/RemoteTroubleshooter-1.19.2-win64.zip",
-  "changelog": "O Jarbas autoriza uma chave SSH pública no usuário da sessão e no root quando o técnico só informa a linha.",
-  "sha256": "d2c44cd9cd39bc936b7c22cdb5c81813613b31523e6a94776fea8a3f5b35223f"
+  "version": "1.19.3",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.3/RemoteTroubleshooter-1.19.3-win64.zip",
+  "changelog": "A entrega guiada pula o que já está no padrão, retoma de onde parou e abre um iDRAC por aba. O relatório mostra o IP uma vez quando confere, e o padrão de entrega limpa o log de erro do BMC.",
+  "sha256": "0484efaeb82a3ec9dc077ba42f7e8183e5ef921fde428b1bc721a3510a59dd79"
 }
