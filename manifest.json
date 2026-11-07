@@ -1,6 +1,6 @@
 {
-  "version": "1.19.6",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.6/RemoteTroubleshooter-1.19.6-win64.zip",
-  "changelog": "O QA aceita RAID5 quando o espaço útil é o do RAID1 pedido, e o botão Console do DCIM abre a máquina da aba.",
-  "sha256": "e457582e86b656df73a2be900f4deea5cd24c79049bbeef654c8e8c757e0574b"
+  "version": "1.19.7",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.7/RemoteTroubleshooter-1.19.7-win64.zip",
+  "changelog": "O ping da entrega guiada deixa de abrir o CMD a cada tentativa durante o reinício.",
+  "sha256": "41012f972273c9d8b4466b3bfbf5e40f0794b6b148f9832746e4c02a954b5e94"
 }
