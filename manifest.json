@@ -1,6 +1,6 @@
 {
-  "version": "1.19.8",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.8/RemoteTroubleshooter-1.19.8-win64.zip",
-  "changelog": "O espelho do boot no Debian desativa o repositório de DVD e instala pelos espelhos oficiais.",
-  "sha256": "168f71c5b9cae0da0d8f84249369357349ab11d4e42e9f3f90457dece7bfdcf3"
+  "version": "1.19.9",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.9/RemoteTroubleshooter-1.19.9-win64.zip",
+  "changelog": "O espelho do boot encerra o apt-get que segura a trava do dpkg e tenta instalar de novo.",
+  "sha256": "0dff3006f62cfff942060676cafdfcad8ba7ffdb2cce705216a8add533f3a137"
 }
