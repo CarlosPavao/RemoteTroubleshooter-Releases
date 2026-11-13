@@ -1,6 +1,6 @@
 {
-  "version": "1.19.9",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.9/RemoteTroubleshooter-1.19.9-win64.zip",
-  "changelog": "O espelho do boot encerra o apt-get que segura a trava do dpkg e tenta instalar de novo.",
-  "sha256": "0dff3006f62cfff942060676cafdfcad8ba7ffdb2cce705216a8add533f3a137"
+  "version": "1.19.10",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.10/RemoteTroubleshooter-1.19.10-win64.zip",
+  "changelog": "A tela de Setup de entrega ganha layout em duas colunas, com etapas no topo e o resultado ao lado.",
+  "sha256": "5c01d8aaf171d48f23a7c3ef2d0a9ac180a9041067c1685003e60c2bbdcf9676"
 }
