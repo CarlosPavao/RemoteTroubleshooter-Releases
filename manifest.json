@@ -1,6 +1,6 @@
 {
-  "version": "1.19.11",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.11/RemoteTroubleshooter-1.19.11-win64.zip",
-  "changelog": "O padrão de entrega passa a valer nos outros BMCs.",
-  "sha256": "547323661a95b6bbba803131091f5ddec721a378a9c141cb11e514b74e8dd3e5"
+  "version": "1.19.12",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.12/RemoteTroubleshooter-1.19.12-win64.zip",
+  "changelog": "A web passa a cobrir entrega, diagnóstico, Jira, Jarbas e terminal como no desktop.",
+  "sha256": "d1ecba85fae896fce3b1b28c4edab676023c95937ab08c3c44bea4519858f663"
 }
