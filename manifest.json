@@ -1,6 +1,6 @@
 {
-  "version": "1.19.12",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.12/RemoteTroubleshooter-1.19.12-win64.zip",
-  "changelog": "A web passa a cobrir entrega, diagnóstico, Jira, Jarbas e terminal como no desktop.",
-  "sha256": "d1ecba85fae896fce3b1b28c4edab676023c95937ab08c3c44bea4519858f663"
+  "version": "1.19.13",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.13/RemoteTroubleshooter-1.19.13-win64.zip",
+  "changelog": "Atualizar firmware deixa de quebrar quando o catálogo da Dell vem vazio.",
+  "sha256": "8df34f04aff00001237df3174ec9f7dfa81f5b8109f672f3f01f7838744047dc"
 }
