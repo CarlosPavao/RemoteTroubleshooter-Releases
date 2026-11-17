@@ -1,6 +1,6 @@
 {
-  "version": "1.19.14",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.14/RemoteTroubleshooter-1.19.14-win64.zip",
-  "changelog": "A Supermicro ganha o PCI padrão da entrega no mesmo menu da porta dedicada.",
-  "sha256": "e7991f6b3fa8d6fb033b07b590021dd775e5c780ab226ce7fae04197a0a92644"
+  "version": "1.19.15",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.15/RemoteTroubleshooter-1.19.15-win64.zip",
+  "changelog": "O PCI padrão da Supermicro também deixa o boot em UEFI e desativa o shell.",
+  "sha256": "bfd8c9d0243a581f25ddf2186f9eabb1a0ca4e319770090e903c28fd1cf2ce9b"
 }
