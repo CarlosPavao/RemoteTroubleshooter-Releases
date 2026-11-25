@@ -1,6 +1,6 @@
 {
-  "version": "1.19.15",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.15/RemoteTroubleshooter-1.19.15-win64.zip",
-  "changelog": "O PCI padrão da Supermicro também deixa o boot em UEFI e desativa o shell.",
-  "sha256": "bfd8c9d0243a581f25ddf2186f9eabb1a0ca4e319770090e903c28fd1cf2ce9b"
+  "version": "1.19.16",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.16/RemoteTroubleshooter-1.19.16-win64.zip",
+  "changelog": "Atualiza o firmware de várias máquinas ao mesmo tempo informando só o patrimônio.",
+  "sha256": "d4d2c97680e03fd991654e2f891f1aad4db9612cff94cc5d545ba263527b8b7f"
 }
