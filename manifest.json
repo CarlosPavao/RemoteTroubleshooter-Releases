@@ -1,6 +1,6 @@
 {
-  "version": "1.19.16",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.16/RemoteTroubleshooter-1.19.16-win64.zip",
-  "changelog": "Atualiza o firmware de várias máquinas ao mesmo tempo informando só o patrimônio.",
-  "sha256": "d4d2c97680e03fd991654e2f891f1aad4db9612cff94cc5d545ba263527b8b7f"
+  "version": "1.19.17",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.17/RemoteTroubleshooter-1.19.17-win64.zip",
+  "changelog": "Mostra o firmware de cada máquina no lote e só reinicia se o técnico confirmar.",
+  "sha256": "af83a479d0b01180ea98ace692f11d7bebc7beffa5f248167994488faa7a642d"
 }
