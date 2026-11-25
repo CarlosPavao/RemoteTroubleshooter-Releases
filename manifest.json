@@ -1,6 +1,6 @@
 {
-  "version": "1.19.17",
-  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.17/RemoteTroubleshooter-1.19.17-win64.zip",
-  "changelog": "Mostra o firmware de cada máquina no lote e só reinicia se o técnico confirmar.",
-  "sha256": "af83a479d0b01180ea98ace692f11d7bebc7beffa5f248167994488faa7a642d"
+  "version": "1.19.18",
+  "download_url": "https://github.com/CarlosPavao/RemoteTroubleshooter-Releases/releases/download/v1.19.18/RemoteTroubleshooter-1.19.18-win64.zip",
+  "changelog": "O lote de firmware fica no aplicativo e na web, com a mesma lista e a mesma pergunta de reinício.",
+  "sha256": "bcdfd44d26d38840a87b4fcd3e01253efc4bfdb1d7f76e18251ffe11a1945081"
 }
